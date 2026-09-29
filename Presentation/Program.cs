@@ -1,5 +1,6 @@
 ﻿using Application.Abstractions;
 using Application.Commands;
+using Application.Strategies;
 using Domain.Repositories;
 using Infrastructure.Data;
 using Infrastructure.Data.Repositories;
@@ -38,6 +39,10 @@ builder.Services.AddScoped<IUpdatePintorHandler, UpdatePintorHandler>();
 builder.Services.AddScoped<IGetPintoresHandler, GetPintoresHandler>();
 builder.Services.AddScoped<IGetPintorByIdHandler, GetPintorByIdHandler>();
 builder.Services.AddScoped<IDeletePintorHandler, DeletePintorHandler>();
+//Patron Strategy:
+builder.Services.AddScoped<IOrdenamientoPintorStrategy, OrdenPorIdStrategy>();
+builder.Services.AddScoped<IOrdenamientoPintorStrategy, OrdenPorNombreStrategy>();
+builder.Services.AddScoped<IOrdenamientoPintorStrategy, OrdenPorApellidoStrategy>();
 builder.Services.AddTransient<MenuPrincipal>();
 
 using var host = builder.Build();

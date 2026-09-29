@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Navegador\\Desktop\\TP - Lalli - Meana - Medina\\",
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\Desktop\\tp-das-uai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC936067-67EC-42BA-9C9D-FC1AF464C531}|Presentation\\Presentation.csproj|c:\\users\\navegador\\desktop\\tp - lalli - meana - medina\\presentation\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC936067-67EC-42BA-9C9D-FC1AF464C531}|Presentation\\Presentation.csproj|solutionrelative:presentation\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07803AFB-0E2B-4CF5-AEBD-F47C3F455057}|Application\\Application.csproj|c:\\users\\navegador\\desktop\\tp-das-uai\\application\\abstractions\\igetpintorbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07803AFB-0E2B-4CF5-AEBD-F47C3F455057}|Application\\Application.csproj|solutionrelative:application\\abstractions\\igetpintorbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\TP - Lalli - Meana - Medina\\Presentation\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "Presentation\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Navegador\\Desktop\\TP - Lalli - Meana - Medina\\Presentation\\MenuPrincipal.cs",
-              "RelativeToolTip": "Presentation\\MenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IGetPintorByIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\tp-das-uai\\Application\\Abstractions\\IGetPintorByIdHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\IGetPintorByIdHandler.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\tp-das-uai\\Application\\Abstractions\\IGetPintorByIdHandler.cs",
+              "RelativeToolTip": "Application\\Abstractions\\IGetPintorByIdHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T22:50:46.321Z",
+              "WhenOpened": "2026-09-29T23:13:02.126Z",
               "EditorCaption": ""
             }
           ]

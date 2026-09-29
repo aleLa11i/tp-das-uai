@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FEtmjipc7HE=",
+  "dgSpecHash": "7l5bAmOVUq4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Navegador\\Desktop\\TP - Lalli - Meana - Medina\\Presentation\\Presentation.csproj",
+  "projectFilePath": "C:\\Users\\Navegador\\Desktop\\tp-das-uai\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Navegador\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Navegador\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
